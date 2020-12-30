@@ -1,0 +1,36 @@
+body{
+	background-color:white;
+}
+
+
+/*	Módulo de lista de tutores	*/
+.tutor_listar .profilepic{
+	/*border:1px solid red;*/
+	height:auto;
+	max-height:60px;
+	max-width:60px;
+}
+
+.tutor_listar .cent_horz{
+	text-align:center;
+}
+
+.tutor_listar .cent_vert{
+	vertical-align:middle;
+}
+
+/*	Módulo de lista de resultados de la busqueda	*/
+.buscador_listar .profilepic{
+	/*border:1px solid red;*/
+	height:auto;
+	max-height:60px;
+	max-width:60px;
+}
+
+.buscador_listar .cent_horz{
+	text-align:center;
+}
+
+.buscador_listar .cent_vert{
+	vertical-align:middle;
+}

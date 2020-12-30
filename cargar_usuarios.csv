@@ -1,0 +1,4 @@
+nombre_consejero;correo;horario;imagen;id;nombre;apellido1;apellido2;correo;documento;estado;semestre;jornada;pilo_paga
+Tutor 1;tut1@co.co;Lunes;profile_pic1516120207.png;	1111;Estu 1;Apell 1;Apell 2;co1@co.co;11111;Activo;10;Diurno;Si
+Tutor 2;tut2@co.co;Solo martes;;2222;Estu 2;Apell 3;;co2@co.co;22222;Inactivo;1;Diurno;No
+Tutor 3;tut3@co.co;Solo fines de semana;;3333;Estu 3;Apell 4;Apell 5;co3@co.co;33333;Activo;Cuarto;Nocturno;Si
